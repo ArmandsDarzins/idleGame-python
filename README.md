@@ -8,7 +8,8 @@ What you do in game is:
 
 To start the game download the zip file, extract it and after extracting you get a folder with a .exe file you open to launch the game
 
-
+You can download the latest version here:
+https://github.com/ArmandsDarzins/idleMobs/releases
 
 
 <img width="875" height="558" alt="image" src="https://github.com/user-attachments/assets/5d9bdaa3-e0b4-449c-ab94-fede7d1f3415" />
